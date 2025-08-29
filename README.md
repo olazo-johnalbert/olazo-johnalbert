@@ -1,11 +1,11 @@
-# 💫 About Me:
+# About Me:
 
 I’m currently a student at **Polytechnic University of the Philippines – Taguig**, with a growing passion for both development and design. I enjoy diving into new technologies and expanding my creative and technical skills.
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Core Development
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -49,7 +49,7 @@ I’m currently a student at **Polytechnic University of the Philippines – Tag
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=olazo-johnalbert&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=olazo-johnalbert&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=olazo-johnalbert&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
