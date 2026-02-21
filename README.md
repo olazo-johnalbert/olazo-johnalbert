@@ -41,8 +41,6 @@ I’m currently a student at **Polytechnic University of the Philippines – Tag
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 
 ### Automation & Scripting
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 ![n8n](https://img.shields.io/badge/n8n-%23F05A28.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
