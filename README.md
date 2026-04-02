@@ -2,7 +2,7 @@
 
 IT Student | Systems Architecture | Full Stack Development
 
-## Professional Profile
+## Profile
 
 I am a third-year Bachelor of Science in Information Technology student at the Polytechnic University of the Philippines – Taguig. My approach to software engineering is rooted in a systems-first mindset; I prioritize understanding the underlying architecture and structural integrity of an application over simply achieving functionality.
 
